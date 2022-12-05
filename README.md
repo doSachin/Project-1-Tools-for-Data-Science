@@ -1,4 +1,4 @@
-# Project-1-Tools-for-Data-Science
+# Project_Applied Data Science Capstone
 
 # Editing the file
 
